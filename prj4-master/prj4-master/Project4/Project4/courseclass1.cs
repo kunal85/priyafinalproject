@@ -67,7 +67,7 @@ namespace Project4
 
         public static void getnumber()
         {
-            courseclass2.settype(t);
+            courseclass2.setno(t);
 
         }
 

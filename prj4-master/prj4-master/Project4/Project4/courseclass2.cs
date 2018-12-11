@@ -83,7 +83,7 @@ namespace Project4
 
         public static string getno()
         {
-            return type2;
+            return t2;
 
         }
 
